@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Handlee&family=Loved+by+the+King&family=Shadows+Into+Light&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Handlee&family=Loved+by+the+King&family=Shadows+Into+Light&family=Ubuntu&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
